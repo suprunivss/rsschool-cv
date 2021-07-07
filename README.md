@@ -1,1 +1,1 @@
-https://github.com/suprunivss/rsschool-cv/cv
+https://suprunivss.github.io/rsschool-cv/cv
