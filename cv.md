@@ -16,6 +16,7 @@ Beginning front-end developer. I love to learn new things and study new informat
 * Java Script
 * Git
 * VS code
+* BEM
 
 ## **Code examples**
 ```javascript
@@ -32,6 +33,9 @@ In the process of working on a project: [big-theater](https://github.com/supruni
 **Branch of BNTU "Zhlobin State Metallurgical College"**
 
 ## **Languages**
+
+* Russian: Native
+* English: A2
 
  
 
